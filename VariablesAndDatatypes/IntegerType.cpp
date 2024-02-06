@@ -17,11 +17,11 @@ std::cout<<"fruit_count is :"<<(apple_count+orange_count)<<std::endl;
 */
 
 // assigment notation
-/*
+
 int lion_count=5;
 int elephant_count=7;
 std::cout<<"animal_count is :"<<lion_count+elephant_count<<std::endl;
-*/
+
 
 // Check the size with sizeof
 
